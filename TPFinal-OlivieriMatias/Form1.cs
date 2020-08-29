@@ -151,7 +151,7 @@ namespace TPFinal_OlivieriMatias
             textBox11.Text = ddss.Tables[0].Rows[0]["NombreCompleto"].ToString();
             textBox10.Text = ddss.Tables[0].Rows[0]["DNI"].ToString();
             textBox9.Text = ddss.Tables[0].Rows[0]["Edad"].ToString();
-            if (ddss.Tables[0].Rows[0]["Casado"].ToString() == "true")
+            if (ddss.Tables[0].Rows[0]["Casado"].ToString() == "True")
             {
                 textBox8.Text = "si";
             }
