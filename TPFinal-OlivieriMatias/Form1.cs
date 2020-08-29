@@ -300,6 +300,11 @@ namespace TPFinal_OlivieriMatias
         {
             Application.Exit();
         }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            LlenarDDGG();
+        }
     }
 
 

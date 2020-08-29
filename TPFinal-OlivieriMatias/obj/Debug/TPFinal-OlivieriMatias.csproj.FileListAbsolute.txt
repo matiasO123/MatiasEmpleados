@@ -8,3 +8,13 @@ F:\Documentos\Facultad\visual studio\puntonet\TPFinal-OlivieriMatias\TPFinal-Oli
 F:\Documentos\Facultad\visual studio\puntonet\TPFinal-OlivieriMatias\TPFinal-OlivieriMatias\obj\Debug\TPFinal-OlivieriMatias.exe
 F:\Documentos\Facultad\visual studio\puntonet\TPFinal-OlivieriMatias\TPFinal-OlivieriMatias\obj\Debug\TPFinal-OlivieriMatias.pdb
 F:\Documentos\Facultad\visual studio\puntonet\TPFinal-OlivieriMatias\TPFinal-OlivieriMatias\obj\Debug\TPFinal-OlivieriMatias.csprojAssemblyReference.cache
+C:\Users\matia\Desktop\CRUXTOTAL\MatiasEmpleados\TPFinal-OlivieriMatias\bin\Debug\TPFinal-OlivieriMatias.exe.config
+C:\Users\matia\Desktop\CRUXTOTAL\MatiasEmpleados\TPFinal-OlivieriMatias\bin\Debug\TPFinal-OlivieriMatias.exe
+C:\Users\matia\Desktop\CRUXTOTAL\MatiasEmpleados\TPFinal-OlivieriMatias\bin\Debug\TPFinal-OlivieriMatias.pdb
+C:\Users\matia\Desktop\CRUXTOTAL\MatiasEmpleados\TPFinal-OlivieriMatias\obj\Debug\TPFinal-OlivieriMatias.csprojAssemblyReference.cache
+C:\Users\matia\Desktop\CRUXTOTAL\MatiasEmpleados\TPFinal-OlivieriMatias\obj\Debug\TPFinal_OlivieriMatias.Form1.resources
+C:\Users\matia\Desktop\CRUXTOTAL\MatiasEmpleados\TPFinal-OlivieriMatias\obj\Debug\TPFinal_OlivieriMatias.Properties.Resources.resources
+C:\Users\matia\Desktop\CRUXTOTAL\MatiasEmpleados\TPFinal-OlivieriMatias\obj\Debug\TPFinal-OlivieriMatias.csproj.GenerateResource.cache
+C:\Users\matia\Desktop\CRUXTOTAL\MatiasEmpleados\TPFinal-OlivieriMatias\obj\Debug\TPFinal-OlivieriMatias.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\CRUXTOTAL\MatiasEmpleados\TPFinal-OlivieriMatias\obj\Debug\TPFinal-OlivieriMatias.exe
+C:\Users\matia\Desktop\CRUXTOTAL\MatiasEmpleados\TPFinal-OlivieriMatias\obj\Debug\TPFinal-OlivieriMatias.pdb

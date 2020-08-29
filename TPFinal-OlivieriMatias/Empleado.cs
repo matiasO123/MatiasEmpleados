@@ -94,7 +94,7 @@ namespace TPFinal_OlivieriMatias
         {
             DataSet datos = new DataSet();
             Conexion con = new Conexion();
-            datos = con.consultador(" select * from Empleados WHERE NombreCompleto LIKE '" + name + "' ");
+            datos = con.consultador(" select * from Empleados WHERE NombreCompleto LIKE '%" + name + "%' ");
             return datos;
         }
                             
